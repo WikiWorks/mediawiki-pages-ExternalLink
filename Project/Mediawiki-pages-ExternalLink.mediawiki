@@ -1,0 +1,12 @@
+;Example usage
+<pre>
+{{ExternalLink
+|External link URL=https://heald.nga.gov
+|External link text=HEALD Wiki
+}}
+</pre>
+{{ExternalLink
+|External link URL=https://heald.nga.gov
+|External link text=HEALD Wiki
+}}
+[[Category:Mediawiki-pages-ExternalLink]]

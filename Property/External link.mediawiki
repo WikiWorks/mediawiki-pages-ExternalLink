@@ -1,0 +1,3 @@
+This is a property of type [[Has type::Record]]. It has fields: [[Has fields::External link URL;External link text]].
+
+[[Category:Mediawiki-pages-ExternalLink]]

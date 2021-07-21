@@ -1,0 +1,4 @@
+<includeonly>[{{{1}}} {{{2|}}}]<!--
+-->{{#set:
+     |External link={{{1}}};{{{2|}}}
+   }}</includeonly><noinclude>[[Category:Mediawiki-pages-ExternalLink]]</noinclude>

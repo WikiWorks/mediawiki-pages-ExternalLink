@@ -1,0 +1,54 @@
+{
+    "publisher": "Ike Hecht",
+    "author": "Ike Hecht",
+    "language": "en",
+    "url": "https://github.com/NationalGalleryOfArt/mediawiki-pages-ExternalLink",
+    "packages": {
+        "ExternalLink": {
+            "globalID": "ExternalLink",
+            "description": "Provides a collection of wiki pages for easy inclusion of the External Link semantics in Mediawiki projects.",
+            "version": "0.1",
+            "pages": [
+                {
+                    "name": "ExternalLink",
+                    "namespace": "PF_NS_FORM",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Form%2FExternalLink.mediawiki"
+                },
+                {
+                    "name": "Mediawiki-pages-ExternalLink",
+                    "namespace": "NS_PROJECT",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Project%2FMediawiki-pages-ExternalLink.mediawiki"
+                },
+                {
+                    "name": "External link",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Property%2FExternal%20link.mediawiki"
+                },
+                {
+                    "name": "External link URL",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Property%2FExternal%20link%20URL.mediawiki"
+                },
+                {
+                    "name": "External link text",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Property%2FExternal%20link%20text.mediawiki"
+                },
+                {
+                    "name": "ExternalLink",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Template%2FExternalLink.mediawiki"
+                },
+                {
+                    "name": "Extlnk",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Template%2FExtlnk.mediawiki"
+                }
+            ],
+            "requiredExtensions": [
+                "PageForms",
+                "SemanticMediaWiki"
+            ]
+        }
+    }
+}

@@ -1,0 +1,4 @@
+<includeonly><span class="delimited-el">[{{{External link URL}}} {{{External link text|}}}]<span class="delimiter">;&#32;</span></span><!--
+-->{{#set:
+     |External link={{{External link URL}}};{{{External link text|}}}
+   }}</includeonly><noinclude>[[Category:Mediawiki-pages-ExternalLink]]</noinclude>

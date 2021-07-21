@@ -1,0 +1,9 @@
+<includeonly>
+{{{!}}
+{{!}} External link URL {{#info: Mandatory field.}}
+{{!}} <nowiki>{{{field|External link URL|input type=regexp|regexp=^http(s)?:\/\/(www\.)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$|message=The value should be a valid URL!|mandatory}}}</nowiki>
+{{!}}-
+{{!}} External link text
+{{!}} <nowiki>{{{field|External link text|input type=text|default=[external link]}}}</nowiki>
+{{!}}}
+</includeonly><noinclude>[[Category:Mediawiki-pages-ExternalLink]]</noinclude>
