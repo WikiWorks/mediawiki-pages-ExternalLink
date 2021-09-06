@@ -15,6 +15,11 @@
                     "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Form%2FExternalLink.mediawiki"
                 },
                 {
+                    "name": "ExternalLink.css",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/MediaWiki%2FExternalLink.css.mediawiki"
+                },
+                {
                     "name": "Mediawiki-pages-ExternalLink",
                     "namespace": "NS_PROJECT",
                     "url": "https:\/\/raw.githubusercontent.com\/NationalGalleryOfArt\/mediawiki-pages-ExternalLink\/main\/Project%2FMediawiki-pages-ExternalLink.mediawiki"

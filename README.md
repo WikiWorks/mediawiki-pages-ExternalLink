@@ -14,6 +14,7 @@ Provides a collection of wiki pages for easy inclusion of the External Link sema
 
 * download the repository
 * run `php extensions/PagePort/maintenance/importPages.php --source ~/mediawiki-pages-ExternalLink`
+* (Note: Use PageExchange for slightly better stying.)
 
 ## via PageExchange
 

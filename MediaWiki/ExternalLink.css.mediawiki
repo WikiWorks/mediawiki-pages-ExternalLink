@@ -1,0 +1,4 @@
+.delimited-el:last-of-type .delimiter {
+	display: none;
+}
+
